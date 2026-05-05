@@ -1,0 +1,1 @@
+<Kotlin source file content for BookmarkManager.kt>
