@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SafeBrowser</string>
+    <string name="url_hint">Hledat nebo zadat URL</string>
+    <string name="nav_home">Domů</string>
+    <string name="nav_bookmarks">Záložky</string>
+    <string name="nav_history">Historie</string>
+    <string name="nav_settings">Nastavení</string>
+    <string name="history_title">Historie prohlížení</string>
+    <string name="bookmarks_title">Záložky</string>
+    <string name="add_bookmark">Přidat záložku</string>
+    <string name="bookmark_added">Záložka přidána</string>
+    <string name="bookmark_removed">Záložka odstraněna</string>
+    <string name="no_history">Historie je prázdná</string>
+    <string name="no_bookmarks">Žádné záložky</string>
+    <string name="settings_search_engine">Vyhledávač</string>
+    <string name="settings_homepage">Domovská stránka</string>
+</resources>
